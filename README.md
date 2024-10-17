@@ -1,16 +1,18 @@
-# Single Page CV
+# Basic HTML Website
 Repositório contendo o resultado do projeto "Basic HTML Webpage" do Roadmap.sh
 
 ## Objetivo 🎯
-  Criar um site em HTML simples com as seguintes páginas:
+Criar um site em HTML simples com as seguintes páginas:
 - Home;
 - Projetos;
 - Artigos;
 - Contato.
-  O site deve ter uma barra de navegação que deve estar presente em todas as páginas.
-  Não é necessário estilizar o site, apenas estruturá-lo com HTML semântico de uma forma que facilite a estilização no futuro e preocupando-se com o SEO.
+
+O site deve ter uma barra de navegação que deve estar presente em todas as páginas.
+Não é necessário estilizar o site, apenas estruturá-lo com HTML semântico de uma forma que facilite a estilização no futuro e preocupando-se com o SEO.
 
 ## Screenshot
+![site](https://github.com/user-attachments/assets/dde08e98-592a-444c-8b3f-c7dbc8c42a4e)
 
 
 ## Como executar?
