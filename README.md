@@ -25,4 +25,4 @@ Não é necessário estilizar o site, apenas estruturá-lo com HTML semântico d
 - ![Static Badge](https://img.shields.io/badge/Sublime%20Text%20-%20gray?style=for-the-badge&logo=sublimetext&logoColor=%23FF9800&logoSize=auto)
 
 ## Referência
-- [Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+- [Roadmap.sh](https://roadmap.sh/projects/basic-html-website)
